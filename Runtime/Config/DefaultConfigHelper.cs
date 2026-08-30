@@ -1,0 +1,2 @@
+/* Legacy config helper source removed in Godot runtime migration.
+   This file is intentionally kept as a placeholder. */
